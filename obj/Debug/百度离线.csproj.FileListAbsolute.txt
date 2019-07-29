@@ -1,0 +1,10 @@
+E:\C#\百度离线\bin\Debug\百度离线.exe.config
+E:\C#\百度离线\bin\Debug\百度离线.exe
+E:\C#\百度离线\bin\Debug\百度离线.pdb
+E:\C#\百度离线\obj\Debug\百度离线.csprojAssemblyReference.cache
+E:\C#\百度离线\obj\Debug\百度离线.Form1.resources
+E:\C#\百度离线\obj\Debug\百度离线.Properties.Resources.resources
+E:\C#\百度离线\obj\Debug\百度离线.csproj.GenerateResource.cache
+E:\C#\百度离线\obj\Debug\百度离线.csproj.CoreCompileInputs.cache
+E:\C#\百度离线\obj\Debug\百度离线.exe
+E:\C#\百度离线\obj\Debug\百度离线.pdb
